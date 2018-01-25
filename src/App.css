@@ -42,8 +42,8 @@ body{
 
 .questionInput{
   color: white;
-  margin-top: 30px;
-  margin-left: 20%;
+  display: block;
+  margin: 30px auto;
   font-size: 20px;
   padding: 10px;
   font-family: 'Josefin Slab';
@@ -53,6 +53,8 @@ body{
 .App-intro {
   font-size: large;
 }
+
+
 .pageTwo{
   /* visibility: hidden; */
 }
