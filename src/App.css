@@ -1,0 +1,60 @@
+#pageOne {
+  text-align: center;
+}
+
+body{
+  background-color: black
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.title{
+  color: white;
+  font-family: 'Shadows Into Light'
+}
+
+#startContainer{
+  display: block
+}
+#startButton{
+  color: white;
+  margin-top: 30px;
+  font-size: 20px;
+  padding: 10px;
+  font-family: 'Josefin Slab';
+  background-color: transparent;
+  border: 1px solid white;
+}
+
+.questionInput{
+  color: white;
+  margin-top: 30px;
+  margin-left: 20%;
+  font-size: 20px;
+  padding: 10px;
+  font-family: 'Josefin Slab';
+  background-color: transparent;
+  border: 1px solid white;
+}
+.App-intro {
+  font-size: large;
+}
+.pageTwo{
+  /* visibility: hidden; */
+}
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Shadows+Into+Light');
+
